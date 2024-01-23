@@ -1,0 +1,7 @@
+C:\Projetos\curso c# avancado\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Projetos\curso c# avancado\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Projetos\curso c# avancado\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Projetos\curso c# avancado\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Projetos\curso c# avancado\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Projetos\curso c# avancado\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Projetos\curso c# avancado\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
